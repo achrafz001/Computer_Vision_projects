@@ -14,7 +14,9 @@ pip install numpy
 * CV2
 
 https://github.com/opencv/opencv
+
 https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
 
 * Hough Algorithm :
+
 https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html
