@@ -1,5 +1,5 @@
-# Computer_Vision_Kernels_and_Lane_detections
-First steps with CV
+# First steps with CV
+
 At first, we can find basics of Computer Vision with CV2 and numpy in kernels and basics repository.
 It contains examples and kernels code, associated with explanatory comments.
 The second repository contains the lane detection project which is very useful for self driving cars.
@@ -12,6 +12,7 @@ pip install numpy
 
 **Ressources**
 * CV2
+
 https://github.com/opencv/opencv
 https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
 
