@@ -7,7 +7,9 @@ It uses CV2, numpy, Canny Edge Detector and Hough Algorithm.
 It is an interesting and funny project to start your journey in Computer Vision.
 
 **Requirements**
+
 pip install cv2
+
 pip install numpy
 
 **Ressources**
