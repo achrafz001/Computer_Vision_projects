@@ -13,7 +13,7 @@ pip install cv2
 pip install numpy
 
 **Ressources**
-* OpenCv
+* OpenCV
 
 https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a
 
