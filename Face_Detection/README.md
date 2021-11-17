@@ -1,6 +1,6 @@
 # Face Detection with Viola Jhons
 
-** Ressources **
+**Ressources**
 
 * Haar Cascades XML:
 
