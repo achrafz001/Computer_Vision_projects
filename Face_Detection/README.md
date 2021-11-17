@@ -4,4 +4,4 @@
 
 * Haar Cascades XML:
 
-- https://github.com/opencv/opencv/tree/master/data/haarcascades
+ https://github.com/opencv/opencv/tree/master/data/haarcascades
