@@ -1,4 +1,4 @@
-# Face Detection with Viola Jhons
+# Face Detection with Viola Jhones
 
 **Ressources**
 
