@@ -26,6 +26,6 @@ https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
 https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html
 
 
-*** Other projects***
+***Other projects***
 - Each one have a README.md file
 
