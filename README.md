@@ -6,13 +6,13 @@ It contains examples and kernels code, associated with explanatory comments.
 It uses CV2, numpy, Canny Edge Detector and Hough Algorithm.
 It is an interesting and funny project to start your journey in Computer Vision.
 
-**Requirements**
+**Requirements for Lane Detection**
 
 pip install cv2
 
 pip install numpy
 
-**Ressources**
+**Ressources for Lane Detection**
 * OpenCV
 
 https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a
@@ -25,4 +25,7 @@ https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
 
 https://docs.opencv.org/4.x/d6/d10/tutorial_py_houghlines.html
 
+
+*** Other projects***
+- Each one have a README.md file
 
